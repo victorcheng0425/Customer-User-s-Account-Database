@@ -1,0 +1,27 @@
+{
+    "dataBase": [
+        {
+            "visaCardBoolean": false,
+            "masterCardBoolean": true,
+            "password": "13579;",
+            "address": "Addr1",
+            "phoneNumber": "2501111",
+            "name": "Person1",
+            "cardNumber": "47301111",
+            "age": 99,
+            "username": "user1"
+        },
+        {
+            "visaCardBoolean": true,
+            "masterCardBoolean": false,
+            "password": "666666",
+            "address": "Addr2",
+            "phoneNumber": "2501231",
+            "name": "Person2",
+            "cardNumber": "37401111",
+            "age": 99,
+            "username": "user2"
+        }
+    ],
+    "name": "Customer Data Base"
+}

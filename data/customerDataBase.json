@@ -1,0 +1,60 @@
+{
+    "dataBase": [
+        {
+            "visaCardBoolean": false,
+            "masterCardBoolean": false,
+            "password": "13579;",
+            "address": "123",
+            "phoneNumber": "123",
+            "name": "123",
+            "cardNumber": "None",
+            "age": 12,
+            "username": "testing"
+        },
+        {
+            "visaCardBoolean": false,
+            "masterCardBoolean": false,
+            "password": "13579;",
+            "address": "123",
+            "phoneNumber": "321",
+            "name": "Victor Cheng",
+            "cardNumber": "None",
+            "age": 121,
+            "username": "victorcheng"
+        },
+        {
+            "visaCardBoolean": false,
+            "masterCardBoolean": false,
+            "password": "13579;",
+            "address": "4792 Mars",
+            "phoneNumber": "2501901213",
+            "name": "Victor1",
+            "cardNumber": "None",
+            "age": 90,
+            "username": "vicche01"
+        },
+        {
+            "visaCardBoolean": false,
+            "masterCardBoolean": false,
+            "password": "666666",
+            "address": "Addr2",
+            "phoneNumber": "2501212212",
+            "name": "Victor2",
+            "cardNumber": "None",
+            "age": 50,
+            "username": "vicche02"
+        },
+        {
+            "visaCardBoolean": false,
+            "masterCardBoolean": false,
+            "password": "13579;",
+            "address": "321",
+            "phoneNumber": "123",
+            "name": "123",
+            "cardNumber": "None",
+            "age": 123,
+            "username": "testaccount"
+        }
+    ],
+    "name": "Customer Data Base"
+}
