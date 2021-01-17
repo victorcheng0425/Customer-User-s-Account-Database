@@ -50,10 +50,10 @@ Also, I can have a chance to think about what feature and merchandise that my st
     Class: CustomerDataBase. The Key is the username, and value is the Customer Object. 
     
 ###***Phase 4: Task 3***
-- I should work on the hierarchy design on those UI classes, create an interface that specify the common UI behaviour.
-- Reducing coupling by removing redundant association between those UI classes.
+- I should work on the hierarchy design of those UI classes, create an interface that specify the common UI behaviour.
+- I should reduce coupling by removing redundant association between those UI classes.
     For example: SignUpGUI and LoadDataGUI might not depend on MainPageGUI if I refactor the MainPageGUI class.
-- Refactor the MainPageGUI class to reduce cohesion, because I could create a new class to handle read/write 
+- I should refactor the MainPageGUI class to reduce cohesion, because I could create a new class to handle read/write 
 file/databases. 
 - I should create an interface for OnlineStoreApp(Terminal App) and MainPageGUI(GUI APP) as they have common 
 method and behaviour.
